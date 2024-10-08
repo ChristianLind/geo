@@ -1,5 +1,9 @@
 ## Available Scripts
 
+After pulling, run:
+### `npm install`
+to install used packages
+
 In the project directory, you can run:
 
 ### `npm start`
